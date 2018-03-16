@@ -42,12 +42,12 @@
 
 ## 8,sass文件的打包和分离与less类似(node-sass sass-loader)
 
-<!-- ## 9,自动处理CSS3属性前缀(PostCSS)
+## 9,自动处理CSS3属性前缀(PostCSS)
 
 1.PostCSS是一个CSS的处理平台,自动处理CSS3属性前缀是其中的一个功能。
 2.$ npm install -s-d postcss-loader autoprefixer
 3.新建文件postcss.config.js
-4./webpack.config.js loader配置 -->
+4./webpack.config.js loader配置
 
 
 
