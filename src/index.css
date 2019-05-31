@@ -1,8 +1,9 @@
-body{
-    color:red;
+body {
+    color: red;
 }
-#title2{
-    background-image:url("./images/test.jpg");
-    width:300px;
-    height:300px
+
+#title2 {
+    background-image: url("./images/test.jpg");
+    width: 300px;
+    height: 300px
 }
