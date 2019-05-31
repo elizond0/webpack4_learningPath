@@ -20,15 +20,15 @@
     "hoek": "^5.0.3",
     "html-webpack-plugin": "^3.0.6",
     "html-withimg-loader": "^0.1.16",
-    "less": "^3.0.1",
+    "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "npm-check-updates": "^2.14.2",
     "postcss-loader": "^2.1.1",
     "style-loader": "^0.20.3",
     "url-loader": "^1.0.1",
-    "webpack": "^4.1.1",
+    "webpack": "^4.32.2",
     "webpack-cli": "^2.0.12",
-    "webpack-dev-server": "^3.1.1"
+    "webpack-dev-server": "^3.4.1"
   },
   "devDependencies": {}
 }
